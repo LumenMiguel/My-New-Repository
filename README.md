@@ -1,0 +1,2 @@
+#MyNewRepository
+   Hello beautiful.
